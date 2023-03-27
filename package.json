@@ -1,0 +1,25 @@
+{
+  "name": "printbrightspacequiz",
+  "version": "1.0.0",
+  "description": "This hosts a bookmarklet to allow printing quizzes in Brightspace",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyBYU/PrintBrightspaceQuiz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremyBYU/PrintBrightspaceQuiz/issues"
+  },
+  "homepage": "https://github.com/JeremyBYU/PrintBrightspaceQuiz#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
